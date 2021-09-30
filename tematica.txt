@@ -1,0 +1,159 @@
+Temática:
+
+Una agencia de turismo virtual destinada a las ciudades de los integrantes del equipo, la cual permita a cada usuario hacer su 
+reserva o varias en algun tour o visita al lugar turistico de tal ciudad.
+
+Título proyecto:
+City Tour Travel
+5 planes turisticos por ciudad o departamento
+
+Ciudades o Departamentos:
+Bogotá, Cúcuta, Medellín, Popayán, Santander
+
+
+Planes en Bogotá:
+
+Tour Avenida el Dorado en bici: 
+Descripción: Por la Avenida El Dorado o Avenida Calle 26 podrás montar en tu bicicleta y andar por la 
+ciclorruta mientras disfrutas la belleza del panorama con sus espacios verdes y edificios elegantes.
+Tour aprende con museos: Podrás visitar cada museo que ofrece la capital de Colombia mientras aprendes de historia y cultura que
+seguro te encantará.
+
+Tour Historia & Museos:
+Podrás visitar seis de los museos más importantes que ofrece la capital de Colombia mientras aprendes de historia y cultura de 
+este país que seguro te encantará.
+
+Tour subida a Monserrate: 
+Descripción: Este es uno de los sitios más icónicos de Bogotá, no importa si eres o no religioso, todo el mundo sube 
+para admirar la maravillosa vista que ofrece este cerro a la capital. Bogotá es pequeña en el mapa, pero una vez que estés allí y 
+visites sus calles, dirás lo contrario.
+
+Tour subida a Guadalupe: 
+Descripción: Al lado de Monserrate nos encontramos con la estatua de virgen de Guadalupe vista desde arriba en 
+cualquier lugar de Bogotá. Nos encontramos con un increíble mirador que al ser unos metros más alto que el de cerro de al lado, 
+podremos observar la imponente cordillera central y sus nevados más destados del Parque Nacional Natural los Nevados. ¿Sabes 
+cuáles podemos observar?
+
+Tour conoce los humedales: 
+Descripción: ¿Sabías que Bogotá cuenta con importantes fuentes de agua llamadas humedales? Hay 11 de ellos categoría RAMSAR en los 
+cuáles podemos admirar la paz y la tranquilidad de la naturaleza a su alrededor, así como avistamiento de fauna única en el lugar.
+
+
+Planes en Cúcuta :
+
+Tour al Monumento Cristo Rey:
+Descripción: Es una importante estatua situada en La Cabrera desde el año 1947 para las fiestas de Cristo Rey. Te encantará 
+observar todo desde arriba ya que tiene una de las mejores panorámicas diurnas y nocturnas de la ciudad.
+
+Tour al Santuario Los Siete Chorros:
+Descripción: Ubicado en Salazar de las Palmas, para llegar a este santuario hallarás un camino empedrado con paredes de árboles 
+altos como en un cuento de fantasía y luego verás un pequeño y hermoso balneario con siete chorros de agua listos para refrescarte
+y bendecirte.
+
+Tour por Chinácota:
+Descripción: Este hermoso pueblo se encuentra a 40 minutos de la capital de Norte de Santander. Es un destino ideal para el 
+turismo de naturaleza, cultural y gastronómico ya que cuenta con una oferta amplia de atractivos naturales e históricos.
+
+Tour por la Casa del General Francisco de Paula Santander:
+Descripción: Fue la casa donde nació el prócer de nuestra independencia General Francisco de Paula Santander. Es un bien 
+patrimonial declarado Monumento Nacional donde se realizan actividades múltiples como exposiciones temporales, actividades 
+culturales y sociales, además de visitas turísticas.
+
+Tour museo Torre del Reloj:
+Descripción: Es un importante ícono de Cúcuta siendo sede de la Secretaría de Cultura y Turismo de Norte de Santander. Allí se 
+realizan obras de teatro y alberga un museo de arte moderno en el que se llevan a cabo exposiciones temporales. La silueta de la 
+torre cuando se ilumina se resalta mucho en Navidad. 
+
+
+Planes en Medellín:
+
+Tour del Graffiti por la Comuna 13:
+Descripción: Es el sitio más visitado en la ciudad, tanto para habitantes como para extranjeros. Ha sido llamado por muchas 
+personas de diferentes maneras, dentro de ellas: Graffitour, Graffiti Tour, Tour comuna 13 o Tour del Grafiti. Aquí podrás conocer
+la historia de esta comuna, y disfrutar de las obras artísticas y expresiones urbanas, este lugar se encuentra en una colina, 
+pero no te preocupes, ya que las principales calles cuentan con escaleras eléctricas. 
+el costo es de $30.000 y tiene una duración de 1 día.
+
+Tour Parque Arví:
+Descripción: Si eres amante de la naturaleza y las eventuras extremas este tour es para ti, aquí podrás practicar deportes 
+extremos y disfrutar de la naturaleza. Este parque cuenta con diferentes atracciones de aventura y recreacion. 
+este tour parte desde la estacion del metrocable en Acevedo y llegas directo al parque. la duracion es de 1 dia y el costo de este tour es de $20.000 por persona.
+
+Tour por el Parque Explora:
+Descripción: Si lo tuyo es la ciencia y los peces este tour es para ti, en el parque explora (tiene el acuario más grande de 
+Colombia) podrás conocer una gran variedad de peces, reptiles y muchos otros animales, además podrás conocer de ciencia y 
+experimentos físicos que te volverán loco. 
+El costo de este tour es de $50.000 por persona
+
+Tour en la Piedra el Peñol:
+Descripción: Si lo tuyo es tomarte fotos y apreciar el paisaje desde las alturas entonces debes visitar la piedra el peñol, 
+desde la cúspide de este monolito podrás ver toda la represa de Guatapé y tomar las fotos más épicas que tomarás en tu vida, 
+pero claro, antes debes subir 702 escalones (lo lindo cuesta) y no, no hay ascensor, así que alista tus piernas, tu cámara y ven 
+a visitarnos. 
+el costo de este tour es de $250.000 por persona 
+
+Tour por los Pueblos Antioqueños:
+Descripción: Si te gusta la cultura antioqueña y conocer lugares históricos y coloniales entonces este tour es perfecto para ti, 
+con él podrás conocer 3 pueblos antioqueños que parecen de ensueño, pueblos mágicos como Jardín y Jericó y podrás conocer lugares 
+hermosos y disfrutarlos en familia. 
+este tour parte desde la ciudad de medellin y tiene una duracion de 2 dias, un dia en cada pueblo, el costo de este tour es de $350.000 por persona
+
+
+Planes Popayán:
+
+Para poder concluir bien las visitas que usted desea hacer por la ciudad, le ofrecemos 3 tipos
+de paquetes de transporte:
+1 visita o tour libre eleccion, cuesta $15000 (por 2 personas)
+3 visitas o tours libre eleccion, cuesta $22000 (por 2 personas)
+ya todos los recorridos cuesta $32000, aplica para la mañana o tarde.
+
+Tour al Puente del humilladero:
+Descripción: Hablamos de un puente el cual es histórico data del año 1873 cuenta con 12 arcos, todo esto basado en los diseños
+de un religioso italiano Fray Serafín Barbetti y un ingeniero alemán. Más que visitar un puente se visita la historia tanto del 
+mismo como de la ciudad, te haces a la idea de que por ahí ingresaron los ejércitos libertadores durante la gesta de la 
+independencia.
+
+Tour al Morro de Tulcán:
+Descripción: Con morro hace referencia a una loma o colina donde solo se ve el paisaje payanés, déjame decirte que estamos 
+hablando de una pirámide pubenense la cual data del siglo XIII, además en sus alrededores se encuentra el pueblito patojo.
+
+Tour al Museo de Historia Natural:
+Descripción: Si eres amante de la naturaleza esta visita es la ideal para que conozcas las diferentes especies de insectos, 
+animales del bosque, fauna y flora entre muchas otras cosas que hacen parte de la naturaleza.
+
+Tour a la Torre del Reloj:
+Descripción: Ven a visitar este emblemático lugar, el cual se encuentra en el centro histórico de la ciudad fue bautizada por 
+el poeta Guillermo León Valencia como la nariz de Popayán hace 200 años ya que era la parte más alta.
+
+Tour al Rincón Payanés:
+Descripción: Una réplica en miniatura de Popayán, también llamado Pueblito Patojo, que cuenta con copias pequeñas de los 
+monumentos más representativos de la capital caucana, entre los que figuran el Puente del Humilladero, la Torre del Reloj y la 
+Capilla de La Ermita. Allí se prueban platos típicos de la región y se pueden comprar artesanías y libros.
+
+
+Planes en Santander:
+
+Tour Deportes Extremos en la Cueva del Indio:
+Descripción: Con este Circuito de Deportes Extremos en San Gil podrás vivir una travesía dentro de la Cueva del Indio
+donde se dice: “Entrarás volando y saldrás nadando” ya que realizarás: Descenso guiado, Espeleología,
+Arrastre bajo, Salto al vacío, Senderismo, Travesía acuática, Caminata ecológica, Telaraña, Canoping,
+Puente Maderos, Puente Bailarina, Puente Himalaya y Quick Jump.
+
+Tour Rafting por el Río Fonce:
+Descripción: Uno de los Deportes Extremos en San Gil Santander más populares y aventureros es el Canotaje en San Gil o
+también conocido como Rafting. Es una descenso en balsa en el Río Fonce, donde acompañados por un instructor
+certificado, te sentirás parte de una tropa de aventureros quienes deberán coordinar cada remada para no voltearse
+y poder dirigir la balsa hacia el final del recorrido.
+
+Tour Bungee Jumping en San Gil:
+Descripción: Un plan extremo solo para valientes. Puedes seleccionar entre dar un salto en una plataforma de 70 metros
+o una de 140 metros. Tus pies serán atados a un arnés y cuando estés listo para saltar comenzará la aventura.
+
+Tour Caminata Cascada de Juan Curí:
+Podrás recorrer un sendero montañoso, cruzando por pequeñas cascadas hasta llegar al gran salto de agua 
+que supera los 200 metros de altura y ser parte interactiva de toda su belleza y disfrutar de un refrescante
+baño en un pozo natural de más de 2 metros de profundidad. 
+
+Tour Parapente Chicamocha:
+Descripción: Vuela sobre uno de los cañones más grandes del mundo a 3000 metros sobre el nivel del mar
+y disfruta de los majestuosos paisajes de Santander.
