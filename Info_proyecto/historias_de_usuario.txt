@@ -1,0 +1,18 @@
+• Yo como usuario deseo obtener una vista previa de la página sin necesidad de registrarme.
+• Yo como usuario deseo registrarme en la página y que me llegue una notificación de registro a mi correo electrónico.
+• Yo como usuario deseo registrarme con mi cuenta de correo electrónico de google.
+• Yo como usuario deseo editar mi información personal dentro de la página por si quiero actualizar algun dato.
+• Yo como usuario quiero ver en la página de inicio las ciudades en las que se realicen los tour.
+• Yo como usuario deseo que al hacer clic en una ciudad me muestre todos los tours que ofrece.
+• Yo como usuario quiero que al hacer clic en algún tour me muestre información completa de disponibilidad, precio, duración, horario, fecha, transporte, alimentación, hospedaje e itinerario.
+• Yo como usuario quiero guardar algún tour en mi carrito de compras si algún día deseo visitarlo.
+• Yo como usuario deseo poder elegir día del tour interactuando con un calendario y elegir número de personas con una barra que al hacer clic aumente o disminuya el número.
+• Yo como usuario quiero que a la hora de agendar o agregar los tours seleccionados, me indique las fechas disponibles para cada ciudad en caso de que haya seleccionado otras no se crucen con sus respectivas fechas.
+• Yo como usuario deseo ver una sección que muestre mis tours que he realizado y que están programados.
+• Yo como usuario deseo poder cancelar mi tour si se presentó un inconveniente y no pueda asistir.
+• Yo como usuario deseo poder reprogramar mi tour si se presentó un inconveniente y no pueda asistir.
+• Yo como usuario quiero que en caso de que se me olvide la contraseña, pueda reemplazarla fácilmente con mi cuenta de correo.
+• Yo como usuario deseo contactarme con soporte técnico en caso de que presente una dificultad al estar navegando en la página.
+• Yo como usuario me gustaría tener un chat de soporte técnico ya que no tengo tiempo para llamar por teléfono o enviar un correo electrónico formal.
+• Yo como usuario deseo ver una sección de sugerencias, quejas y reclamos para mejorar el servicio.
+

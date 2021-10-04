@@ -1,5 +1,0 @@
-Para nuestro proyecto (Web para ofrecer servicio de turismo por ciudades) vamos a desarrollar una página web
-donde el usuario pueda ver las diferentes ofertas de turismos en las principales cuidades de Colombia,
-el usuario podrá registrarse en nuestra página, hacer las reservas de cada tour, ver su historial de compras,
-recibir notificaciones por correo electrónico de posibles promociones, también podrá tener soporte técnico online
-por si tiene inconvenientes con las reservas.
